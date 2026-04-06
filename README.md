@@ -1,47 +1,49 @@
-# MyCrib
+# 🏠 MyCrib
 
-https://mycrib-ng.web.app/
+A simple property listing platform that connects tenants directly with landlords — no agents, no extra fees.
 
-🚀 Overview
+## 🚀 Overview
+MyCrib is designed to solve one major problem in Nigeria’s housing space:
+👉 High agent fees and difficulty finding verified landlords.
 
-Finding a home in Nigeria is often stressful, expensive, and filled with unnecessary middlemen.
+This platform allows users to:
+- Browse available properties
+- Contact landlords directly
+- Avoid unnecessary middlemen
 
-MyCrib NG solves this by:
+## ✨ Features
+- Property listings (e.g., 1-bedroom, 2-bedroom, self-contain)
+- Location-based search (Lagos, Abuja, etc.)
+- Property details (price, features, amenities)
+- Direct landlord contact (no agents involved)
 
-Connecting tenants directly with landlords
-Removing agent fees
-Providing verified listings
-Simplifying the house-hunting experience
-✨ Features
-🔍 Smart Property Search
-Search by location, price, and property type
-🏠 Direct Landlord Contact
-No agents, no hidden fees
-✅ Verified Listings
-Helps users avoid scams and fake properties
-📍 Multi-City Support
-Lagos, Abuja, Port Harcourt, Ibadan (and more coming)
-📝 List Your Property
-Landlords can upload listings for free
-🚩 Report / Flag Listings
-Community-driven moderation for safer browsing
-📊 Dashboard (Coming / In Progress)
-Manage listings, track engagement
-🎯 Problem It Solves
+## 🛠 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Firebase
 
-Traditional real estate platforms in Nigeria:
+## 🌍 Live Demo
+👉 https://mycrib-ng.web.app/
 
-Charge high agent fees
-Lack transparency
-Often contain fake or outdated listings
+## 📸 Screenshots
+(Add screenshots here later)
 
-MyCrib NG fixes this by prioritizing:
+## 🧠 What I Learned
+- Structuring a real-world product interface
+- Designing user-friendly layouts
+- Building responsive UI with clean HTML/CSS
+- Thinking like a product builder, not just a coder
 
-Trust
-Simplicity
-Direct communication
-🛠️ Tech Stack
-Frontend: HTML, CSS, JavaScript
-Hosting: Firebase (Web App)
-Database: (Add if you used Firestore / backend)
-Design: Clean, minimal UI for fast browsing
+## 🔮 Future Improvements
+- User authentication (login/signup)
+- Verified landlord system
+- Backend integration (database + API)
+- Messaging system between users and landlords
+
+## 📫 Author
+John Nwafor  
+Frontend Developer | AI Automation Builder  
+
+- Portfolio: https://johnny2275.github.io/jhonnie/
+- GitHub: https://github.com/JOHNNY2275
